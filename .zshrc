@@ -15,3 +15,4 @@ export PATH="/Users/muugiim/.codeium/windsurf/bin:$PATH"
 
 eval "$(starship init zsh)"
 source <(fzf --zsh)
+alias nano="nano -ET 4"
